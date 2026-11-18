@@ -1,0 +1,7 @@
+@"
+order_id,customer_id,amount,order_date
+1001,1,1500,2026-01-01
+1002,2,500,2026-01-02
+1003,3,2000,2026-01-03
+1004,1,3000,2026-01-04
+"@ | Out-File datasets\orders.csv

@@ -1,0 +1,7 @@
+@"
+customer_id,name,city,last_modified
+1,Hugo,Zapopan,2026-01-01
+2,Ana,Monterrey,2026-01-02
+3,John,Austin,2026-01-03
+4,Maria,CDMX,2026-01-04
+"@ | Out-File datasets\customers.csv

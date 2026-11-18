@@ -1,0 +1,14 @@
+@"
+[
+  {
+    "product_id": 1,
+    "product_name": "Laptop",
+    "price": 1500
+  },
+  {
+    "product_id": 2,
+    "product_name": "Monitor",
+    "price": 350
+  }
+]
+"@ | Out-File datasets\products.json
